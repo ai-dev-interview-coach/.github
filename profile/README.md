@@ -1,12 +1,4 @@
-## 프로젝트 소개 README.md (추후 프로젝트 진행 후 수정)
+## ✔️ Overall Architecture
 
-<!--
+<img width="3200" height="2160" alt="InterMate_architecture5" src="https://github.com/user-attachments/assets/66d6ee26-6eed-49fe-ac11-4be33cfaf653" />
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
